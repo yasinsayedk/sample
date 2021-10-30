@@ -1,0 +1,69 @@
+body{
+	background-image:url("https://giffiles.alphacoders.com/210/210015.gif");
+	background-position:center;
+	text-align:center;
+}
+header{
+	background-color:white;
+	border-color:red;
+	padding:15px;
+	margin:25px;
+	text-align:center;
+	border-width:15px;
+	border-style:solid;
+	border-radius:75px;
+	opacity:90%;
+}
+header h1{
+	font-size:100px;
+	font-family:Luica Console;
+	letter-spacing:8px;
+	color:red;
+	text-decoration:ultra-expanded;
+	
+}
+header img{
+	box-shadow: 2px 2px 2px 2px #ff00d4;
+}
+
+section{
+	background-color:black;
+	border-color:blue;
+	padding:15px;
+	margin:25px;
+	text-align:center;
+	border-width:15px;
+	border-style:solid;
+	border-radius:75px;
+	color:white;
+	font-size:25px;
+	opacity:70%;
+	
+	
+	
+}
+
+img{
+	box-shadow: 5px 5px 5px 5px #ff00d4;
+	border-radius:90px;
+}
+	
+section h2{
+	box-shadow: 1px 1px 1px 1px #ff00d4;
+}
+
+li {
+	float:left;
+	font-size:30px;
+	padding:10px;
+	margin:10px;
+}
+
+.navbar{
+	box-shadow: 2px 2px 2px 2px #ff00d4;
+	border-radius:100px;
+	margin:25px;
+	
+}
+
+	
